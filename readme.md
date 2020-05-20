@@ -49,7 +49,10 @@ Response
 "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJpbjI4bWludXRlcyIsImV4cCI6MTU2MjIzNDM1OSwiaWF0IjoxNTYxNjI5NTU5fQ.yvkFtYAp8yGClDo7D5wtXyPSnUPtxu8A7A9YCl9FJdjR0di_yAaPcSTR6liN5bIu1SnOJuSZp94pYSYzU_BNEw"
 }
 ```
-
+{
+"token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJpbjI4bWludXRlcyIsImV4cCI6MTU5MDUwMjU3MCwiaWF0IjoxNTg5ODk3NzcwfQ.jRrYBbrhHLdCzh3RUO-L3s_9X6WqIoqgU6RH9aJCIIMzCE88BR7k_eDEq8rmh7LdflEQzfL_Te3wnsTBhNBeqw"
+}
+ServicePlan269e712c-1f5f-48dc
 Use the token in the headers for all subsequent requests.
 
 `Authorization` : `Bearer ${token}`
